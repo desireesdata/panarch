@@ -1,4 +1,4 @@
-Ces utilitaires pour effectuer des validations DTD + application XSLT ont été vibecodées, n'étant pas vraiment l'apanage de la modélisation métier proprement dite.
+Ces utilitaires pour effectuer des validations DTD + application XSLT ont été vibecodées, n'étant pas vraiment l'apanage de la modélisation métier proprement dite (c'est juste un aspect technique, pratico-pratique). Car l'idée est juste d'avoir des fonctions qui gère 1) "valider DTD" et 2) "appliquer XSLT". 
 
 ```
 cabal update

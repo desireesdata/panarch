@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead SYSTEM "ead_ns.dtd">
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+  <eadheader>
+    <eadid>FR-AD75-1234</eadid>
+    <titleproper>Archives de Jean Dupont</titleproper>
+  </eadheader>
+</ead>

@@ -5,15 +5,16 @@ import System.Exit (exitFailure, exitSuccess)
 import Text.XML.HXT.Core
 
 validateDTD :: FilePath -> IO Bool
-validateDTD filename = do
+validateDTD xmlPath = do
   statuses <-
     runX $
       readDocument
         [ withValidate yes
+        , withCheckNamespaces yes
         , withWarnings yes
-        , withRemoveWS no
+        , withInputEncoding utf8
         ]
-        filename
+        xmlPath
       >>>
       getErrStatus
 
@@ -27,17 +28,17 @@ main = do
   args <- getArgs
 
   case args of
-    [filename] -> do
-      valid <- validateDTD filename
+    [xmlPath] -> do
+      valid <- validateDTD xmlPath
 
       if valid
         then do
-          putStrLn "Document valide selon la DTD."
+          putStrLn "Document XML valide."
           exitSuccess
         else do
-          putStrLn "Document invalide."
+          putStrLn "Document XML invalide."
           exitFailure
 
     _ -> do
-      putStrLn "Usage : runghc validate.hs fichier.xml"
+      putStrLn "Usage : runghc validator.hs document.xml"
       exitFailure

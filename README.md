@@ -11,3 +11,15 @@ Blabla why haskell is a good langague for THIS case (Schematron is an orthogonal
 
 Limitations : NLP features, friction.
 
+## Organization
+
+- cours: experiments for understanding the Haskell basics
+- utils: utilities for applying XSLT and validating schemas
+
+## Utilisation
+
+### Binaries
+- Windows 11 and Ubuntu 24.04
+
+### Compiling
+Moins risqué mais plus technique !

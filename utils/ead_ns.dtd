@@ -1,0 +1,9 @@
+<!ELEMENT ead (eadheader)>
+
+<!ATTLIST ead
+  xmlns CDATA #FIXED "urn:isbn:1-931666-22-9"
+>
+
+<!ELEMENT eadheader (eadid, titleproper)>
+<!ELEMENT eadid (#PCDATA)>
+<!ELEMENT titleproper (#PCDATA)>

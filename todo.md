@@ -1,4 +1,5 @@
 - Test documentation with Haddock
+- Test ADT with origination tag (Agent @Ric-CM)
 - Ast model, Ric-based
     - check Conceptual Model (RiC-CM)
 - repetitions factorization (isad g core)

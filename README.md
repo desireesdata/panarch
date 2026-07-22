@@ -87,6 +87,24 @@ instance Entity Record where
     TRecord :| [TRecordResource, TEntity]
 ```
 
+Simpler :
+
+```
+data Archive = Archive
+  { resources      :: Map ResourceId RecordResource
+  , agents         :: Map AgentId Agent
+  , places         :: Map PlaceId Place
+  , activities     :: Map ActivityId Activity
+  , instantiations :: Map InstantiationId Instantiation
+  }
+
+data Agent
+  = Person PersonData
+  | CorporateBody CorporateBodyData
+  | Family FamilyData
+```
+
+
 ## Cleaning Dirty EAD
 
 Archival information software (SIA en français ?) can produce dirty XML/EAD : either because of limitations in the design; or because the descriptions are irregular (unittitle in scopecontent etc.)

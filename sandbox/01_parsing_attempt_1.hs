@@ -1,5 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
-
+-- Ici on montre juste comment fonction le type Cursor
 module Main where
 
 import Data.Text (Text)

@@ -8,6 +8,8 @@ blabla
 > References... 
 > - https://learn-haskell.blog/
 > - https://pandoc.org/
+> - https://ica-egad.github.io/RiC-AG/ <-- usefull for thinking about the semantic AST
+>   - https://www.ica.org/standards/RiC/RiC-O_1-1.html#FindingAid
 
 ## Converting Archival Data : the AST approach
 
@@ -17,6 +19,33 @@ Blabla why haskell is a good langague for THIS case (Schematron is an orthogonal
 Haskell because we want : binary, a functional approach, type safety and abstract syntax tree, etc.
 
 Limitations : NLP features, friction.
+
+### AST (RiC-based semantic model)
+
+In progress... 
+
+> https://www.ica.org/standards/RiC/RiC-O_1-1.html#documentaryFormTypes
+
+```
+data Record = Record
+  { recordId    :: URI
+  , recordTitle :: Text
+  , recordForms :: [DocumentaryFormType] -- optionnel donc !
+  }
+
+data DocumentaryFormType
+  = FindingAid
+  | AuthorityRecord
+  | IIIFManifest
+
+findingAid :: Record
+findingAid =
+  Record
+    { recordId = URI "https://francearchivesblabla.org/records/42"
+    , recordTitle = "Inventaire du fonds Larcher"
+    , recordForms = [FindingAid]
+    }
+```
 
 ## Cleaning Dirty EAD
 

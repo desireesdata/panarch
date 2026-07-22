@@ -18,16 +18,20 @@ Limitations : NLP features, friction.
 > in progress... These are just ambitions, currently...
 
 - XML/GAIA (french archival information system)
-    -- -> clean XML/EAD 2.0
-    -- -> JSON
-    -- -> CSV
+    - -> clean XML/EAD 2.0
+    - -> JSON
+    - -> CSV
+    - -> Typst
+    - -> LaTex
 - dirty XML/EAD 2.0
-    -- -> clean XML/EAD 2.0
-    -- -> clean XML/EAD 4.0
-    -- -> CSV
-    -- -> JSON
+    - -> clean XML/EAD 2.0
+    - -> clean XML/EAD 4.0
+    - -> CSV
+    - -> JSON
+    - -> Typst
+    - -> LaTex
 - XML/EAD 
-    -- -> RiC (we can hope...)
+    - -> RiC (we can hope...)
 
 > Note GAIA is becoming Advance Archive... I hope its XML will be close to real EAD  
 
@@ -68,3 +72,4 @@ cabal install --lib hxt hxt-xslt
 ```
 some command... in progress (:
 ```
+

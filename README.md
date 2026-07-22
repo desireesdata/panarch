@@ -5,13 +5,21 @@ blabla
 
 > in progress...
 
+> References... 
+> - https://learn-haskell.blog/
+
 ## Converting Archival Data : the AST approach
 
 Structured archival data can be found in various formats (CSV, XML/EAD, JSON, etc.) and will be converted into other formats (RiC, clean XML/EAD, etc.). One good way to achieve this is to create a semantic and intermediate representation (AST) to make it easier to apply transformations with domain constraints. 
 
 Blabla why haskell is a good langague for THIS case (Schematron is an orthogonal validator : good but its adds a layer of complexity to the data pipeline). Here we would like to manipulate data structures from a semantic point of view, which is usefull for identifying problems. "Parse don't validate", arise errors properly (XSLT is bad for this, i think !) etc, etc.
+Haskell because we want : binary, a functional approach, type safety and abstract syntax tree, etc.
 
 Limitations : NLP features, friction.
+
+## Cleaning Dirty EAD
+
+AIS (SIA en français) can produce dirty XML/EAD : either because of limitations in the design; or because the descriptions are irregular (unittitle in scopecontent etc.)
 
 ## Features
 
@@ -74,3 +82,9 @@ cabal install --lib hxt hxt-xslt
 some command... in progress (:
 ```
 
+## IA
+
+The use of IA is here limited to :
+- generating documentation (Haskell docs are mysterious)
+- verify feasibility with "toy data"
+- creating utilities (Levenstein, apply DTD validation...) to reduce friction with Haskell environments and dependancies.

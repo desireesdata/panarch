@@ -1,0 +1,1 @@
+Cours pour expliquer l'application partielle, avec des lambdas et l'idée de fonction comme citoyen de premier ordre

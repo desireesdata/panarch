@@ -1,0 +1,1 @@
+Cours pour manipuler des types, comme garant de la logique métier/sémantique

@@ -1,0 +1,11 @@
+- Test documentation with Haddock
+- Ast model, Ric-based
+    - check Conceptual Model (RiC-CM)
+- repetitions factorization (isad g core)
+- modelisation errors with functors
+- first modification
+- journalisation modifications
+- export (Latex or Typst)/Xml/EAD clean
+    - write a DSL ?
+- test : launch the binaries on a computer without haskell
+- designing CLI (check pandoc). option etc.

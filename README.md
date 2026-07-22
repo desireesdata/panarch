@@ -5,7 +5,8 @@ blabla
 
 > in progress...
 
-> References... 
+## References... 
+
 > - https://learn-haskell.blog/
 > - https://pandoc.org/
 > - https://ica-egad.github.io/RiC-AG/ <-- usefull for thinking about the semantic AST
@@ -49,7 +50,7 @@ findingAid =
 
 ## Cleaning Dirty EAD
 
-AIS (SIA en français) can produce dirty XML/EAD : either because of limitations in the design; or because the descriptions are irregular (unittitle in scopecontent etc.)
+Archival information software (SIA en français ?) can produce dirty XML/EAD : either because of limitations in the design; or because the descriptions are irregular (unittitle in scopecontent etc.)
 
 ## Features
 

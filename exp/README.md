@@ -1,0 +1,2 @@
+
+Ce dossier content des scripts vibecodés et de la documentation générée par IA pour vérifier la faisabilité du projet. Pour des raisons de précision métier et pour documenter correctement les features, ces codes sont réecrits à la main.

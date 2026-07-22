@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead SYSTEM "ead.dtd">
+
+<ead>
+  <eadheader>
+    <eadid>FR-AD75-1234</eadid>
+    <titleproper>Archives de Jean Dupont</titleproper>
+  </eadheader>
+</ead>

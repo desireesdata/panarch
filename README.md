@@ -7,6 +7,7 @@ blabla
 
 > References... 
 > - https://learn-haskell.blog/
+> - https://pandoc.org/
 
 ## Converting Archival Data : the AST approach
 
@@ -40,14 +41,18 @@ AIS (SIA en français) can produce dirty XML/EAD : either because of limitations
     - -> LaTex
 - XML/EAD 
     - -> RiC (we can hope...)
+- SimplEAD model
+    - -> Just a validator ??? for arise errors? 
+    - -> XML/EAD 2
+    - -> XML/EAD 4
 
 > Note GAIA is becoming Advance Archive... I hope its XML will be close to real EAD  
 
 ### Structural normalization
-Blabla ISAD G
+Blabla ISAD G (no repetitions), chronological order, etc.
 
 ### Content normalization
-Blabla ponctuation, lowcase, etc.
+Blabla ponctuation, date, lowcase, etc.
 
 ## Organization
 
@@ -82,9 +87,9 @@ cabal install --lib hxt hxt-xslt
 some command... in progress (:
 ```
 
-## IA
+## AI
 
-The use of IA is here limited to :
+The use of AI is here limited to :
 - generating documentation (Haskell docs are mysterious)
 - verify feasibility with "toy data"
 - creating utilities (Levenstein, apply DTD validation...) to reduce friction with Haskell environments and dependancies.

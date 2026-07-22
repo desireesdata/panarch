@@ -5,7 +5,8 @@ blabla
 
 > in progress...
 
-## References... 
+
+## References
 
 > - https://learn-haskell.blog/
 > - https://pandoc.org/
@@ -46,6 +47,44 @@ findingAid =
     , recordTitle = "Inventaire du fonds Larcher"
     , recordForms = [FindingAid]
     }
+```
+
+Notes, more notes :
+
+```
+data Entity
+  = EntityRecord Record
+  | EntityRecordSet RecordSet
+  | EntityAgent Agent
+  | EntityActivity Activity
+  | EntityPlace Place
+```
+Again...
+
+```
+data TypeName
+  = TEntity
+  | TAgent
+  | TPerson
+  | TCorporateBody
+  | TRecordResource
+  | TRecord
+  deriving (Eq, Ord, Show)
+
+class Entity a where
+  typeHierarchy :: proxy a -> NonEmpty TypeName
+
+instance Entity Person where
+  typeHierarchy _ =
+    TPerson :| [TAgent, TEntity]
+
+instance Entity CorporateBody where
+  typeHierarchy _ =
+    TCorporateBody :| [TAgent, TEntity]
+
+instance Entity Record where
+  typeHierarchy _ =
+    TRecord :| [TRecordResource, TEntity]
 ```
 
 ## Cleaning Dirty EAD

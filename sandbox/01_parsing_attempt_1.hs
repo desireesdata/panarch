@@ -18,13 +18,13 @@ import Text.XML.Cursor
 xml :: LT.Text
 xml =
   "<ead>\
-  \  <titleproper>Inventaire du Fonds Ducoeur</title>\
+  \  <titleproper>Inventaire du Fonds Ducoeur</titleproper>\
   \  <author>Verlaine</author>\
   \</ead>"
 
 main :: IO ()
 main = do
-  let findingAidCursor =
-        fromDocument (parseText_ def xml)
-
-  print findingAidCursor
+    let findingAidCursor = fromDocument (parseText_ def xml)
+    -- findingAidCursor représente l'arborescence de façon abstraite 
+    -- ou plutot : une position navigable dans cet arbre : c'est CURSOR
+    print findingAidCursor

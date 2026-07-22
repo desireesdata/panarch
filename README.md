@@ -46,7 +46,7 @@ Blabla ponctuation, lowcase, etc.
 - cours: experiments for understanding the Haskell basics (in French only)
 - utils: utilities for applying XSLT and validating schemas
 - sandbox: a folder where i'm just testing things
-
+- exp : generated code and documentation, just for verify feasibility 
 
 ## Install
 
@@ -58,7 +58,8 @@ blabla
 blabla
 Moins risqué mais plus technique !
 
-#### Dependances
+### Dependances
+
 
 ```
 cabal update

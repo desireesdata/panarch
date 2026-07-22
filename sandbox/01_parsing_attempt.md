@@ -53,7 +53,7 @@ Le texte strict est souvent utilisé pour de petites valeurs, comme :
 
 Le texte paresseux peut être utilisé pour un document complet.
 
-## Chaine de transformation
+## Chaine de transformation
 
 En gros :
 

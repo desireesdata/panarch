@@ -1,0 +1,1 @@
+Here, we are experimenting with small Haskell concepts => it's a pedagogcial project !

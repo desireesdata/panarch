@@ -1,0 +1,4 @@
+<!ELEMENT ead (eadheader)>
+<!ELEMENT eadheader (eadid, titleproper)>
+<!ELEMENT eadid (#PCDATA)>
+<!ELEMENT titleproper (#PCDATA)>

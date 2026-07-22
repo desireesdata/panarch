@@ -3,7 +3,7 @@
 Panarch is a pandoc-inspired educational project designed for converting archival data.
 blabla
 
-## Converting Archival Data : the way of AST
+## Converting Archival Data : the AST approach
 
 Structured archival data can be found in various formats (CSV, XML/EAD, JSON, etc.) and will be converted into other formats (RiC, clean XML/EAD, etc.). One good way to achieve this is to create a semantic and intermediate representation (AST) to make it easier to apply transformations with domain constraints. 
 

@@ -15,9 +15,9 @@ import Text.XML.Cursor
     , (&/)
     )
 
-
+settingsXml = XML.def { XML.psRetainNamespaces = True }
 
 main :: IO ()
 main = do 
-    document <- XML.readFile XML.def "justice_dirty_ead.xml"
+    document <- XML.readFile settingsXml "justice_dirty_ead.xml"
     print document

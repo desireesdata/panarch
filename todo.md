@@ -4,7 +4,8 @@
     - check Conceptual Model (RiC-CM)
 - repetitions factorization (isad g core)
 - modelisation errors with functors
-- first modification
+- first modification (ponctuation or scopecontent -> unittitle)
+    - generating csv for gaia import (if exists a modification)
 - journalisation modifications
 - export (Latex or Typst)/Xml/EAD clean
     - write a DSL ?

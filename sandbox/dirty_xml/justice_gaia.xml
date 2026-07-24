@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<GAIA>
+<header>
+<eadid countrycode="FR" mainagencycode="FR_AD077">FR_AD077_4U22</eadid>
+<filedesc>
+<publicationstmt>
+<publisher>GAIA V9.5.5</publisher>
+</publicationstmt>
+</filedesc>
+<frontmatter>
+<publicationstmt>
+<titleproper>4U22</titleproper>
+<subtitle>Le présent instrument de recherche décrit les archives produites par la justice de Paix de Moret-sur-Loing dans l’exercice de ses missions civiles, pénales et gracieuses. Les analyses sont rédigées au niveau de l’article. Elles précisent la nature du document conservé, ses dates extrêmes, son contenu, ainsi que le cas échéant les lacunes chronologiques ou les particularités matérielles observées. 
+L’instrument permet d’accéder aux différentes catégories de documents produits par la juridiction, notamment les dossiers de conciliation, les jugements civils et de simple police, les procédures de tutelle et de conseil de famille, les actes de juridiction gracieuse, les procès-verbaux de simple police et de gendarmerie, les dépôts d’actes, les registres d’audience, les plumitifs, les répertoires et les documents de gestion et de statistiques. 
+En raison, de la diversité des typologies présente dans ce fonds, il constitue une source essentielle pour l’histoire judiciaire, sociale, économique et familiale du Canton de Moret-sur-Loing de 1790 à 1960. 
+</subtitle>
+<publisher>Archives départementales de Seine-et-Marne</publisher>
+<date>24/07/2026 à 15:30</date>
+<p>Féral</p>
+</publicationstmt>
+<optionslist>
+<item>
+<label>Unité de description</label>
+<value>2373 - Justice de paix de Moret-sur-Loing</value>
+</item>
+<item>
+<label>Trier sur le numéro d'ordre puis sur la date de production</label>
+<value></value>
+</item>
+<item>
+<label>Niveau édition</label>
+<value>Parties d'articles cotés</value>
+</item>
+<item>
+<label>Sauf à classer</label>
+<value></value>
+</item>
+<item>
+<label>NivsupFonds</label>
+<value></value>
+</item>
+<item>
+<label>NivsupMethodique</label>
+<value></value>
+</item>
+<item>
+<label>NivsupNumérique</label>
+<value></value>
+</item>
+<item>
+<label>NivsupCote</label>
+<value></value>
+</item>
+<item>
+<label>NivsupPa</label>
+<value></value>
+</item>
+<item>
+<label>Données éditoriales</label>
+<value></value>
+</item>
+<item>
+<label>Avec bulletinage</label>
+<value></value>
+</item>
+<item>
+<label>Données matérielles iconographiques</label>
+<value></value>
+</item>
+<item>
+<label>Données matérielles vidéogrammes, son</label>
+<value></value>
+</item>
+<item>
+<label>Entrée et/ou modalités d'entrée</label>
+<value></value>
+</item>
+<item>
+<label>Histoire administrative et/ou historique de la conservation</label>
+<value></value>
+</item>
+<item>
+<label>Producteur(s)</label>
+<value></value>
+</item>
+<item>
+<label>Tutelle(s)</label>
+<value></value>
+</item>
+<item>
+<label>Compétence(s)</label>
+<value></value>
+</item>
+<item>
+<label>Notes</label>
+<value></value>
+</item>
+<item>
+<label>Contrôle de la description</label>
+<value></value>
+</item>
+<item>
+<label>Description matérielle</label>
+<value></value>
+</item>
+<item>
+<label>Cotation de référence (fonds, niv. Collection)</label>
+<value></value>
+</item>
+<item>
+<label>N° d'ordre de tri</label>
+<value></value>
+</item>
+<item>
+<label>Evaluation, tris et éliminations, sort final</label>
+<value></value>
+</item>
+<item>
+<label>Propriétaire</label>
+<value></value>
+</item>
+<item>
+<label>Disponibilité/communicabilité</label>
+<value></value>
+</item>
+<item>
+<label>Conditions de reproduction</label>
+<value></value>
+</item>
+<item>
+<label>Localisation</label>
+<value></value>
+</item>
+<item>
+<label>Travaux, lots</label>
+<value></value>
+</item>
+<item>
+<label>Renvois, historique cotation</label>
+<value></value>
+</item>
+<item>
+<label>Fichiers numériques</label>
+<value></value>
+</item>
+<item>
+<label>Typologie d'interrogation</label>
+<value></value>
+</item>
+<item>
+<label>Action(s)</label>
+<value></value>
+</item>
+<item>
+<label>Typologie(s)</label>
+<value></value>
+</item>
+<item>
+<label>Nom(s) propres</label>
+<value></value>
+</item>
+<item>
+<label>Nom(s) commun(s)</label>
+<value></value>
+</item>
+<item>
+<label>Affichage du type d'Ud</label>
+<value></value>
+</item>
+</optionslist>
+<codelist>
+<typetitre>
+<item code="DE">TITRE DEPENDANT D'UN TITRE PROPRE</item><item code="FG">&lt;TITRE FORGE&gt; $ SANS TITRE PROPRE</item><item code="FO">TITRE UNIFORME : DE FORME</item><item code="PA">TITRE DE PARTIE</item><item code="PL">TITRE PARALLELE</item><item code="PR">TITRE PROPRE</item><item code="TA">TITRE ALTERNATIF</item><item code="VP">VARIANTE DE TITRE PROPRE</item></typetitre>
+</codelist>
+</frontmatter>
+</header>
+<Archdesc>
+<c01 type="F"><fonds id="2373" type="2. Institutions à partir de 1789"><typeud>Fonds</typeud><cotation>4U22</cotation><titre type="PR">Justice de paix de Moret-sur-Loing</titre><subtitle>Le présent instrument de recherche décrit les archives produites par la justice de Paix de Moret-sur-Loing dans l’exercice de ses missions civiles, pénales et gracieuses. Les analyses sont rédigées au niveau de l’article. Elles précisent la nature du document conservé, ses dates extrêmes, son contenu, ainsi que le cas échéant les lacunes chronologiques ou les particularités matérielles observées. 
+L’instrument permet d’accéder aux différentes catégories de documents produits par la juridiction, notamment les dossiers de conciliation, les jugements civils et de simple police, les procédures de tutelle et de conseil de famille, les actes de juridiction gracieuse, les procès-verbaux de simple police et de gendarmerie, les dépôts d’actes, les registres d’audience, les plumitifs, les répertoires et les documents de gestion et de statistiques. 
+En raison, de la diversité des typologies présente dans ce fonds, il constitue une source essentielle pour l’histoire judiciaire, sociale, économique et familiale du Canton de Moret-sur-Loing de 1790 à 1960. 
+</subtitle><desccontenu>Instituées par la loi des 16 et 24 août 1790, portant organisation judiciaire, les justices de paix constituent la juridiction de proximité créée par la Révolution Française afin de rapprocher la justice des citoyens et de favoriser le règlement à l’amiable des différends. Etablie au chef-lieu de chaque canton, la justice de paix est confiée à un juge élu, puis nommé à partir du Consulat, dont les compétences s’étendent progressivement tout au long du XIXe siècle. Outre leur mission essentielle de conciliation entre les parties, les juges de paix interviennent dans les litiges civils de faible importance, exercent des attributions en matière de simple police et accomplissent de nombreuses missions de juridiction gracieuse. A ce titre, ils interviennent notamment dans les procédures de tutelle, les conseils de famille, les appositions et levées de scellés, les inventaires après décès, les ventes de mobiliers et dans la réception de certains dépôts d’actes. 
+Les justices de paix durent tout le long du XIXe siècle et la première moitié du XXe siècle. Elles sont ensuite supprimées par l’ordonnance du 22 décembre 1958 portant réforme de l’organisation judiciaire. Leurs compétences sont transférées aux tribunaux de première instance à partir de 1959. 
+Le fonds rassemble les archives produites par la justice de paix du canton de Moret-sur-Loing de 1790 à 1960 dans l’exercice de ses fonctions mais aussi de nombreux aspects de la vie quotidienne des habitants du canton. La justice de Paix intervient ici dans les conflits de voisinage, les successions, la protection des mineurs, les affaires de simple police, l’activité économique locale et l’administration de la justice de Paix de Moret-sur-Loing. Le fonds présente donc un intérêt majeur pour l’histoire institutionnelle, judiciaire, sociale, familiale et économique du canton de Moret-sur-Loing. 
+Le fonds comprend notamment : 
+-	Les archives de fonctionnement de la juridiction : correspondances, circulaire, rapports statistiques;
+-	Les archives des attributions civiles : jugements civils, les procès-verbaux de conciliations, les actes civils (inventaire après décès, scellés, ventes mobilières), les conseils de famille;
+-	Les archives d’attributions pénales : jugements de simple police, procès-verbaux de simple police ; procès-verbaux de police et de gendarmerie, répertoire et plumitifs d’audience;
+-	Les dépôts d’actes comprenant notamment le dépôt des pièces de sociétés commerciales et les dépôts de signatures notariales;
+-	Les registres de gestion, répertoires ; tables et documents statistiques. 
+</desccontenu><date normal="17900101/19601231">1790 - 1960</date><ctrldesc><creele>26/07/2005</creele><creepar>DORLEANS</creepar></ctrldesc><historique><histcons>Un inventaire sommaire a été établi par Cédric Becker, stagiaire de l'Ecole Nationale des Greffiers (ENG) en stage aux Archives départementales de Seine-et-Marne du 26 janvier au 20 février 2015. Sur la base de cet inventaire, un classement définitif a été réalisé en 2026 par Maurelle Hounkpe.</histcons></historique><entree><modalentree>Versement du 13 janvier 1997</modalentree></entree><evaluation><evaltri>Conservation définitive </evaltri><accroissements>Fonds clos </accroissements><modeclassement>Le classement adopté ici respecte les principales missions exercées par la juridiction à savoir : 
+-	Fonctionnement,
+-	Attributions civiles,
+-	Attributions pénales, 
+-	Dépôts,
+-	Enregistrement
+</modeclassement><etatclassement>Classement définitif</etatclassement><inventaire>N</inventaire><instrurech>Le présent instrument de recherche décrit les archives produites par la justice de Paix de Moret-sur-Loing dans l’exercice de ses missions civiles, pénales et gracieuses. Les analyses sont rédigées au niveau de l’article. Elles précisent la nature du document conservé, ses dates extrêmes, son contenu, ainsi que le cas échéant les lacunes chronologiques ou les particularités matérielles observées. 
+L’instrument permet d’accéder aux différentes catégories de documents produits par la juridiction, notamment les dossiers de conciliation, les jugements civils et de simple police, les procédures de tutelle et de conseil de famille, les actes de juridiction gracieuse, les procès-verbaux de simple police et de gendarmerie, les dépôts d’actes, les registres d’audience, les plumitifs, les répertoires et les documents de gestion et de statistiques. 
+En raison, de la diversité des typologies présente dans ce fonds, il constitue une source essentielle pour l’histoire judiciaire, sociale, économique et familiale du Canton de Moret-sur-Loing de 1790 à 1960. 
+</instrurech></evaluation><descmat><importmat>Le fonds est principalement constitué de registres reliés, de dossiers papier et de quelques imprimés administratifs. Les documents couvrent la période révolutionnaire jusqu’au milieu du XXe siècle. Leur état matériel est globalement satisfaisant. Le fond fait 13,33 mètres linéaires.</importmat><langueecrit>Français </langueecrit></descmat><description><condacces>Soumis aux conditions de la salle de lecture </condacces><condrepro>Soumis aux conditions de la salle de lecture </condrepro></description><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<tutelle>Ministère de la justice</tutelle><competences>État</competences><indexations>
+<datecontenu normal="1790/1960">1790 - 1960</datecontenu><npropre>
+<famname id="334" source="FAMI">Drouyn (famille)</famname></npropre>
+<refgeo>
+<geogname id="92600" source="CADM">Moret-sur-Loing (Seine-et-Marne ; canton)</geogname></refgeo>
+</indexations>
+</fonds><c02 type="M"><methodique typo="null" id="983262"><typeud>Méthodique</typeud><titre type="PR">Fonctionnement</titre><desccontenu>Regroupe les documents concernant :
+- les généralités (correspondance, statistiques, etc.),
+- le personnel (installation des juges de paix, des assesseurs et suppléants, documents comptables),
+- la documentation (lois, arrêtés, règlements, circulaires).
+</desccontenu><ordre>100</ordre><ctrldesc><creele>08/10/2019</creele><creepar>FOUQUET</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c03 type="O"><cote typo="A" id="1123861"><typeud>Cote</typeud><cotation>4U22/96</cotation><titre type="PR">Répertoire "1893 - 1902" 
+Répertoire des jugements et des actes portés devant le juge de paix (brouillon) "1903 - 1904"
+Registre des sommes reçu pour les actes "1825 - 1863"
+Registre de rôle des causes civiles "1882 - 188"
+Registre des droits de mise au rôle "1876 - 1882"
+Recueil des usages locaux de Seine-et-Marne (Avant-projet) "1904"
+Statistiques agricoles annuelles "1922;1924-1925"
+Statistiques des travaux de la justice de paix du Canton de Moret "1894 - 1897"
+
+</titre><date normal="18250101/19251231">1825 - 1925</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1825/1925">1825 - 1925</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123857"><typeud>Cote</typeud><cotation>4U22/92</cotation><titre type="PR">Correspondances "1833; 1854 - 1912"
+Circulaire "1861 - 1874</titre><date normal="18330101/19121231">1833 - 1912</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1833/1912">1833 - 1912</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123853"><typeud>Cote</typeud><cotation>4U22/88</cotation><titre type="PR">Formation des listes préparatoires
+ pour les jurés criminels </titre><date normal="18490101/19211231">1849 - 1921</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1849/1921">1849 - 1921</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123854"><typeud>Cote</typeud><cotation>4U22/89</cotation><titre type="PR">  Formation de la liste des électeurs
+ consulaire duTribunal du commerce "1884 - 1922",  manquant: 1895, 1897, 1910,1912
+  Formation de la liste des électeurs de la Chambre consultative des arts et manufactrures "1908- 1913; 1920;1922"
+Procès verbaux des élections d'un représentant à l'assemblée législative
+ " 1849;1851"
+Procès verbaux de recensement des votes  "1849; 1851"</titre><date normal="18490101/19221231">1849 - 1922</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1849/1922">1849 - 1922</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123856"><typeud>Cote</typeud><cotation>4U22/91</cotation><titre type="PR">Procurations  "1856 - 1893"
+Lettres officielles "An 3 -An 10" 
+Correspondances ( relier) "1898 - 1910 
+Télégramme 
+</titre><date normal="18560101/19101231">1856 - 1910</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1856/1910">1856 - 1910</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123852"><typeud>Cote</typeud><cotation>4U22/87</cotation><titre type="PR">  Dossier de vérification du registre 
+tenu par le canton de Moret pour la
+ protection des enfants du 1er âge "1885 - 1895"
+   Rapport sur la protection des enfants du premier âge "1886 - 1896"
+   Rapports annuels sur les émoluments versés en matière des enfants du 1 er âge "1883 - 1895"</titre><date normal="18830101/18961231">1883 - 1896</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1883/1896">1883 - 1896</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123855"><typeud>Cote</typeud><cotation>4U22/90</cotation><titre type="PR"> Formation de la liste des électeurs pour l'année de la chambre de commerce "1895; 1908-1913; 19220;1922"
+ Formation de la liste des électeurs consulaires pour le tribunal de commerce "1886 - 1887; 1903 - 19113; 1920;1922"  manquant 1904;1911</titre><date normal="18950101/19221231">1895 - 1922</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1895/1922">1895 - 1922</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123858"><typeud>Cote</typeud><cotation>4U22/93</cotation><titre type="PR">Dossier de procédure d'information pénale  " 1908" 
+Dépôt de rapport "1897;1904  - 1912"
+Enquête sur les congrégations (articles de presse, correspondances) "1901 - 1914"
+Registre récapitulatif du nombres d'actes enregistrés par commune ou canton sur les divers registres " 1912"
+Registre des déclarations d'accidents " 1905 - 1910"
+Extrait du registre des arrêts  du préfet du département de Seine-et-Marne "1849;1864"
+Affiches de journal "1892; 1898; 1920"
+Taxe à témoin, registre de plaintes (fiche vierge) </titre><date normal="18970101/19201231">1897 - 1920</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1897/1920">1897 - 1920</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123862"><typeud>Cote</typeud><cotation>4U22/97</cotation><titre type="PR">Dossier de soutien des familles "1913 - 1914": 
+Famille ROULLET 
+Famille BOULANGER 
+Famille MERLE 
+Famille DUBRAS 
+Famille BELLIOT 
+Famille GUILLON 
+Famille CHRISTOPHE 
+Procès verbaux constatant la situation de la famille en vue de l'obtention de soutien familial "1914"
+Trame vierge concernant des affaires de flagrant délit, fiches statistiques de condamnés retardataires (fiche vierge).</titre><date normal="19130101/19141231">1913 - 1914</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1913/1914">1913 - 1914</datecontenu></indexations>
+</cote></c03></c02><c02 type="M"><methodique typo="null" id="983265"><typeud>Méthodique</typeud><titre type="PR">Attributions pénales</titre><desccontenu>Concernent les affaires de simple police :
+- répertoires,
+- minutes et extraits de jugements,
+- dossiers de procédures,
+- contraventions et amendes de simple police,
+- procès-verbaux de police et de gendarmerie.
+</desccontenu><ordre>400</ordre><ctrldesc><creele>08/10/2019</creele><creepar>FOUQUET</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c03 type="M"><methodique typo="null" id="983283"><typeud>Méthodique</typeud><titre type="PR">Jugements de simple police</titre><ordre>430</ordre><ctrldesc><creele>09/10/2019</creele><creepar>FOUQUET</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c04 type="O"><cote typo="A" id="1123821"><typeud>Cote</typeud><cotation>4U22/56</cotation><titre type="PR">Jugements  de police correctionnelle "1792 - 1794; An 2 - An 10" 
+Jugement de police (registre) "An 4 - An 8"
+</titre><date normal="17920101/18020923">1792 -  An X [23/09/1801 - 23/09/1802]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1792/18010923">1792 -  An X [23/09/1801 - 23/09/1802]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123822"><typeud>Cote</typeud><cotation>4U22/57</cotation><titre type="PR">Jugement de simple Police  "registre" 
+ manquant 1829</titre><date normal="18160101/18371231">1816 - 1837</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1816/1837">1816 - 1837</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123831"><typeud>Cote</typeud><cotation>4U22/66</cotation><titre type="PR">Jugement de simple Police 1936; 1939
+Jugements de Prud'hommes "assistance judiciaire, accidents de travail "1936 - 1937"
+jugements "assurances sociales "1934"
+Répertoire des jugements de minutes de simple police "1817- 1897"
+Registre de suivi des informations criminelles "1853 - 1895"</titre><date normal="18320101/19391231">1832 - 1939</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1832/1939">1832 - 1939</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123823"><typeud>Cote</typeud><cotation>4U22/58</cotation><titre type="PR">Jugement de simple Police </titre><date normal="18390101/18571231">1839 - 1857</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1839/1857">1839 - 1857</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123824"><typeud>Cote</typeud><cotation>4U22/59</cotation><titre type="PR">Jugement de simple Police manquant 1862</titre><date normal="18550101/18641231">1855 - 1864</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1855/1864">1855 - 1864</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123825"><typeud>Cote</typeud><cotation>4U22/60</cotation><titre type="PR">Jugement de simple Police </titre><date normal="18640101/18701231">1864 - 1870</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1864/1870">1864 - 1870</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123826"><typeud>Cote</typeud><cotation>4U22/61</cotation><titre type="PR">Jugement de simple Police </titre><date normal="18710101/18791231">1871 - 1879</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1871/1879">1871 - 1879</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123827"><typeud>Cote</typeud><cotation>4U22/62</cotation><titre type="PR">Jugement de simple Police </titre><date normal="18800101/18871231">1880 - 1887</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1880/1887">1880 - 1887</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123828"><typeud>Cote</typeud><cotation>4U22/63</cotation><titre type="PR">Jugement de simple Police </titre><date normal="18880101/18941231">1888 - 1894</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1888/1894">1888 - 1894</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123829"><typeud>Cote</typeud><cotation>4U22/64</cotation><titre type="PR">Jugement de simple Police </titre><date normal="18950101/19031231">1895 - 1903</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1895/1903">1895 - 1903</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123830"><typeud>Cote</typeud><cotation>4U22/65</cotation><titre type="PR">Jugement de simple Police </titre><date normal="19040101/19121231">1904 - 1912</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1904/1912">1904 - 1912</datecontenu></indexations>
+</cote></c04></c03><c03 type="M"><methodique typo="null" id="983287"><typeud>Méthodique</typeud><titre type="PR">Procès-verbaux de police et de gendarmerie</titre><ordre>451</ordre><ctrldesc><creele>09/10/2019</creele><creepar>FOUQUET</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c04 type="O"><cote typo="A" id="1123834"><typeud>Cote</typeud><cotation>4U22/69</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18540101/18581231">1854 - 1858</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1854/1858">1854 - 1858</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123835"><typeud>Cote</typeud><cotation>4U22/70</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18590101/18611231">1859 - 1861</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1859/1861">1859 - 1861</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123836"><typeud>Cote</typeud><cotation>4U22/71</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18620101/18651231">1862 - 1865</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1862/1865">1862 - 1865</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123837"><typeud>Cote</typeud><cotation>4U22/72</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18660101/18691231">1866 - 1869</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1866/1869">1866 - 1869</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123838"><typeud>Cote</typeud><cotation>4U22/73</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux) "manquant 1871"</titre><date normal="18700101/18751231">1870 - 1875</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1870/1875">1870 - 1875</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123839"><typeud>Cote</typeud><cotation>4U22/74</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18780101/18811231">1878 - 1881</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1878/1881">1878 - 1881</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123840"><typeud>Cote</typeud><cotation>4U22/75</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18820101/18851231">1882 - 1885</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1882/1885">1882 - 1885</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123841"><typeud>Cote</typeud><cotation>4U22/76</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18860101/18911231">1886 - 1891</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1886/1891">1886 - 1891</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123842"><typeud>Cote</typeud><cotation>4U22/77</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="18920101/18991231">1892 - 1899</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1892/1899">1892 - 1899</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123843"><typeud>Cote</typeud><cotation>4U22/78</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="19000101/19041231">1900 - 1904</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1900/1904">1900 - 1904</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123844"><typeud>Cote</typeud><cotation>4U22/79</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="19050101/19101231">1905 - 1910</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1905/1910">1905 - 1910</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123845"><typeud>Cote</typeud><cotation>4U22/80</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="19110101/19121231">1911 - 1912</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1911/1912">1911 - 1912</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123846"><typeud>Cote</typeud><cotation>4U22/81</cotation><titre type="PR">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</titre><date normal="19130101/19191231">1913 - 1919</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1913/1919">1913 - 1919</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123847"><typeud>Cote</typeud><cotation>4U22/82</cotation><titre type="PR">Procès verbaux"1920 - 1921" ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, citation sur réquisitoire, correspondances, états des procès verbaux)
+Procès verbaux : "1935"
+Transport sur place et enquête "Jaillette et Chodam" 
+Déclaration, de pouvoir de cassation "commune de Wontarlot et Dormeau André" 
+
+</titre><date normal="19200101/19351231">1920 - 1935</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1920/1935">1920 - 1935</datecontenu></indexations>
+</cote></c04></c03></c02><c02 type="M"><methodique typo="null" id="983266"><typeud>Méthodique</typeud><titre type="PR">Dépôts </titre><desccontenu>Concernent :
+- les prestations de serments et l'authenticité des actes,
+- la conservation des actes (par exemple les contrats d'apprentissage, les actes de sociétés, la liste préparatoire du jury criminel),
+- la présidence de commissions (notamment l'assistance médicale gratuite, les baux ruraux),
+- l'agriculture (exemple : inscription des warrants agricoles).
+</desccontenu><ordre>500</ordre><ctrldesc><creele>08/10/2019</creele><creepar>FOUQUET</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c03 type="O"><cote typo="A" id="1123851"><typeud>Cote</typeud><cotation>4U22/86</cotation><titre type="PR">Dossier contenant les actes de dépôt 
+de signatures des notaires "1861 - 1896"
+Dossier contenant les certificats en pharmacie "1862 - 1891"
+Dossier de vérification de registre tenu par le Canton de Moret pour la protection des enfants du 1er âge "1913"
+Dossier de déclaration d'accident de travail  (déclaration, PV, certificat médical)
+"1914- 1915"
+
+</titre><date normal="18610101/19151231">1861 - 1915</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1861/1915">1861 - 1915</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123848"><typeud>Cote</typeud><cotation>4U22/83</cotation><titre type="PR">Dépôt d'actes  :
+-  Cie Lyonnaise de Navigation "1894"
+-  La compagnie Lyonnaise de Navigation "1894"
+- Société "Eclairage technique de Moret" "1894"
+- Sociéte immobilière de Champagne- sur-seine "1902" 
+- Société des Aglomérés du centre et de l'Est "1902"
+- Société Générale "1905-1906; 1909"
+- Société Boué et Petit "1910"
+- Société coopérative (Le progrès)"1910"
+</titre><date normal="18940101/19101231">1894 - 1910</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1894/1910">1894 - 1910</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123850"><typeud>Cote</typeud><cotation>4U22/85</cotation><titre type="PR">Dépôt de pièces:
+- La socité des Aglomérés du centre et de l'Est "1893;1900"
+- Crédit Agricole de Moret (1909)
+- Société Générale de halage sur les canaux du centre "1909"
+- Société Schneider et Cie "1908"
+- Société de Remorquage de la Haute Seine "1908"
+- Société Leveau et Belle fille "1908"
+- Société Crogny "1906"
+- Société collectif Crochot frères "1903"
+- Société Générale "1903"
+- Société anonyme des lièges plastiques et aglomérés Ravannes "1904"
+- Société en non collectif Bellanger Chassin "1904"
+- Société la concorde "1906"
+- Société des habitations à Bon marché de Champagne-sur-seine "1906"
+- Société Générale de Navigation "1906"
+
+Dépôt des pièces de dissolution 
+- Société de Remorquage et de transports de Haute Seine des Canaux du Centre et du Nord "1910"
+- société des sièges aglomérés de Ravannes "1906"
+- Société Chrochot frères "1904"
+- Société Lemaire et Carangeot "1911"
+Dépôt de transaction " Lecomte et Bergeron" "1907"
+Dépôt de rapport 
+- Poulteau et Cie et Villemen (1908) 
+- Muzard et Thomas (1908)
+- Lemaire et Rosignol (1908)
+- Antoine et Bardier (1908)
+- Rousseau et Canmergnat (1900)
+ 
+
+
+</titre><date normal="18970101/19111231">1897 - 1911</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1897/1911">1897 - 1911</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123849"><typeud>Cote</typeud><cotation>4U22/84</cotation><titre type="PR">Dépôt d'actes  :
+-  Société Economats Gâtinais "1911"
+- Société Le maitre Carangeot "1911"
+-  Société de Halage sur les canaux du centre "1911"
+- Société J.Prévost et Cie "1912"
+- Société Générale "1912"
+</titre><date normal="19110101/19121231">1911 - 1912</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1911/1912">1911 - 1912</datecontenu></indexations>
+</cote></c03></c02><c02 type="M"><methodique typo="null" id="1128778"><typeud>Méthodique</typeud><titre type="PR">Attributions civiles </titre><ctrldesc><creele>26/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c03 type="O"><cote typo="A" id="1123817"><typeud>Cote</typeud><cotation>4U22/52</cotation><titre type="PR">Dossiers de procédure civil :
+- Procès verbaux d'interrogatoire 
+"1793"
+- Procès verbaux d'audition des témoins 
+"1793"
+- Procès verbaux de visite des lieux "1899"
+- Procès verbaux verbal de copie collationné Berthier et Crochok "1907"</titre><date normal="17930101/19071231">1793 - 1907</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1793/1907">1793 - 1907</datecontenu></indexations>
+</cote></c03><c03 type="M"><methodique typo="null" id="1128782"><typeud>Méthodique</typeud><titre type="PR">Conciliations </titre><ctrldesc><creele>26/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c04 type="O"><cote typo="A" id="1123818"><typeud>Cote</typeud><cotation>4U22/53</cotation><titre type="PR">Conciliations </titre><date normal="17900101/18050923">1790 -  An XIII [23/09/1804 - 23/09/1805]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1790/18040923">1790 -  An XIII [23/09/1804 - 23/09/1805]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123819"><typeud>Cote</typeud><cotation>4U22/54</cotation><titre type="PR">Conciliations </titre><date normal="18060101/18341231">1806 - 1834</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1806/1834">1806 - 1834</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123820"><typeud>Cote</typeud><cotation>4U22/55</cotation><titre type="PR">Conciliations et non concilialiations
+ "1860 - 1901; 1909" manquant 1899-1900
+Notes relatives aux  conciliations 
+"1893 - 1896"</titre><date normal="18600101/18961231">1860 - 1896</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1860/1896">1860 - 1896</datecontenu></indexations>
+</cote></c04></c03><c03 type="M"><methodique typo="null" id="1128780"><typeud>Méthodique</typeud><titre type="PR">Contentieux </titre><ctrldesc><creele>26/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c04 type="O"><cote typo="A" id="1123767"><typeud>Cote</typeud><cotation>4U22/2</cotation><titre type="PR">Jugements civils </titre><date normal="17940922/17990922"> An III  -  An VII [22/09/1794 - 22/09/1799]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="17940922/17980922"> An III  -  An VII [22/09/1794 - 22/09/1799]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123768"><typeud>Cote</typeud><cotation>4U22/3</cotation><titre type="PR">Jugements civils </titre><date normal="17990923/18060923"> An VIII  -  An XIV [23/09/1799 - 23/09/1806]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="17990923/18050923"> An VIII  -  An XIV [23/09/1799 - 23/09/1806]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123766"><typeud>Cote</typeud><cotation>4U22/1</cotation><titre type="PR">Jugements civils</titre><date normal="17900101/17940922">1790 -  An II [22/09/1793 - 22/09/1794]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1790/17930922">1790 -  An II [22/09/1793 - 22/09/1794]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123787"><typeud>Cote</typeud><cotation>4U22/22</cotation><titre type="PR">Jugements civils; manquant (1910)
+Jugement de loyers "1936"
+Répertoire des actes civils et des jugements  "An 8 - 1816"
+Rapport de vérification des registres de l'état civil 
+Répertoire d'actes d'état civil "1791 - An 10" manquant An 7 </titre><date normal="17910101/19371231">1791 - 1937</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1791/1937">1791 - 1937</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123769"><typeud>Cote</typeud><cotation>4U22/4</cotation><titre type="PR">Jugements civils  </titre><date normal="18060101/18081231">1806 - 1808</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1806/1808">1806 - 1808</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123770"><typeud>Cote</typeud><cotation>4U22/5</cotation><titre type="PR">Jugements civils  </titre><date normal="18090101/18121231">1809 - 1812</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1809/1812">1809 - 1812</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123771"><typeud>Cote</typeud><cotation>4U22/6</cotation><titre type="PR">Jugements civils  </titre><date normal="18140101/18181231">1814 - 1818</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1814/1818">1814 - 1818</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123772"><typeud>Cote</typeud><cotation>4U22/7</cotation><titre type="PR">Jugements civils  </titre><date normal="18190101/18231231">1819 - 1823</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1819/1823">1819 - 1823</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123773"><typeud>Cote</typeud><cotation>4U22/8</cotation><titre type="PR">Jugements civils  </titre><date normal="18240101/18291231">1824 - 1829</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1824/1829">1824 - 1829</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123774"><typeud>Cote</typeud><cotation>4U22/9</cotation><titre type="PR">Jugements civils  </titre><date normal="18300101/18341231">1830 - 1834</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1830/1834">1830 - 1834</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123831"><typeud>Cote</typeud><cotation>4U22/66</cotation><titre type="PR">Jugement de simple Police 1936; 1939
+Jugements de Prud'hommes "assistance judiciaire, accidents de travail "1936 - 1937"
+jugements "assurances sociales "1934"
+Répertoire des jugements de minutes de simple police "1817- 1897"
+Registre de suivi des informations criminelles "1853 - 1895"</titre><date normal="18320101/19391231">1832 - 1939</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1832/1939">1832 - 1939</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123775"><typeud>Cote</typeud><cotation>4U22/10</cotation><titre type="PR">Jugements civils  </titre><date normal="18350101/18391231">1835 - 1839</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1835/1839">1835 - 1839</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123776"><typeud>Cote</typeud><cotation>4U22/11</cotation><titre type="PR">Jugements civils  </titre><date normal="18400101/18451231">1840 - 1845</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1840/1845">1840 - 1845</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123777"><typeud>Cote</typeud><cotation>4U22/12</cotation><titre type="PR">Jugements civils  </titre><date normal="18460101/18491231">1846 - 1849</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  17   C 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1846/1849">1846 - 1849</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123778"><typeud>Cote</typeud><cotation>4U22/13</cotation><titre type="PR">Jugements civils  </titre><date normal="18500101/18531231">1850 - 1853</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1850/1853">1850 - 1853</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123779"><typeud>Cote</typeud><cotation>4U22/14</cotation><titre type="PR">Jugements civils; manquant 1857</titre><date normal="18540101/18591231">1854 - 1859</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1854/1859">1854 - 1859</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123780"><typeud>Cote</typeud><cotation>4U22/15</cotation><titre type="PR">Jugements civils  </titre><date normal="18600101/18651231">1860 - 1865</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1860/1865">1860 - 1865</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123781"><typeud>Cote</typeud><cotation>4U22/16</cotation><titre type="PR">Jugements civils  </titre><date normal="18660101/18711231">1866 - 1871</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1866/1871">1866 - 1871</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123782"><typeud>Cote</typeud><cotation>4U22/17</cotation><titre type="PR">Jugements civils  </titre><date normal="18720101/18791231">1872 - 1879</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1872/1879">1872 - 1879</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123783"><typeud>Cote</typeud><cotation>4U22/18</cotation><titre type="PR">Jugements civils  </titre><date normal="18800101/18851231">1880 - 1885</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1880/1885">1880 - 1885</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123784"><typeud>Cote</typeud><cotation>4U22/19</cotation><titre type="PR">Jugements civils  </titre><date normal="18860101/18931231">1886 - 1893</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 1</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1886/1893">1886 - 1893</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123785"><typeud>Cote</typeud><cotation>4U22/20</cotation><titre type="PR">Jugements civils  </titre><date normal="18940101/18991231">1894 - 1899</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1894/1899">1894 - 1899</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123786"><typeud>Cote</typeud><cotation>4U22/21</cotation><titre type="PR">Jugements civils  </titre><date normal="19000101/19061231">1900 - 1906</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1900/1906">1900 - 1906</datecontenu></indexations>
+</cote></c04></c03><c03 type="M"><methodique typo="null" id="1128779"><typeud>Méthodique</typeud><titre type="PR">Gracieux </titre><ctrldesc><creele>26/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c04 type="O"><cote typo="A" id="1123789"><typeud>Cote</typeud><cotation>4U22/24</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</titre><date normal="17960922/18020923"> An V  -  An X [22/09/1796 - 23/09/1802]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="17960922/18010923"> An V  -  An X [22/09/1796 - 23/09/1802]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123790"><typeud>Cote</typeud><cotation>4U22/25</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</titre><date normal="18020923/18040922"> An XI  -  An XII [23/09/1802 - 22/09/1804]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="18020923/18030924"> An XI  -  An XII [23/09/1802 - 22/09/1804]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123791"><typeud>Cote</typeud><cotation>4U22/26</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</titre><date normal="18040923/18081231"> An XIII [23/09/1804 - 23/09/1805] - 1808</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="18040923/1808"> An XIII [23/09/1804 - 23/09/1805] - 1808</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123788"><typeud>Cote</typeud><cotation>4U22/23</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</titre><date normal="17900101/17960921">1790 -  An IV [23/09/1795 - 21/09/1796]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1790/17950923">1790 -  An IV [23/09/1795 - 21/09/1796]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123815"><typeud>Cote</typeud><cotation>4U22/50</cotation><titre type="PR">Minutiers actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation
+ au clair, ventes mobiliers</titre><date normal="17910101/17980922">1791 -  An VI [22/09/1797 - 22/09/1798]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1791/17970922">1791 -  An VI [22/09/1797 - 22/09/1798]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123816"><typeud>Cote</typeud><cotation>4U22/51</cotation><titre type="PR">Minutes de jugements/ actes civils  (présence de jugement) </titre><date normal="17910101/18020923">1791 -  An X [23/09/1801 - 23/09/1802]</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1791/18010923">1791 -  An X [23/09/1801 - 23/09/1802]</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123792"><typeud>Cote</typeud><cotation>4U22/27</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18110101/18131231">1811 - 1813</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1811/1813">1811 - 1813</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123793"><typeud>Cote</typeud><cotation>4U22/28</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18130101/18171231">1813 - 1817</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1813/1817">1813 - 1817</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123794"><typeud>Cote</typeud><cotation>4U22/29</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18180101/18241231">1818 - 1824</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1818/1824">1818 - 1824</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123795"><typeud>Cote</typeud><cotation>4U22/30</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18250101/18311231">1825 - 1831</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1825/1831">1825 - 1831</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123796"><typeud>Cote</typeud><cotation>4U22/31</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18320101/18361231">1832 - 1836</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1832/1836">1832 - 1836</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123797"><typeud>Cote</typeud><cotation>4U22/32</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18370101/18431231">1837 - 1843</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1837/1843">1837 - 1843</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123798"><typeud>Cote</typeud><cotation>4U22/33</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18440101/18501231">1844 - 1850</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 3</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1844/1850">1844 - 1850</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123799"><typeud>Cote</typeud><cotation>4U22/34</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18510101/18561231">1851 - 1856</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1851/1856">1851 - 1856</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123800"><typeud>Cote</typeud><cotation>4U22/35</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18570101/18631231">1857 - 1863</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1857/1863">1857 - 1863</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123801"><typeud>Cote</typeud><cotation>4U22/36</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18640101/18701231">1864 - 1870</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1864/1870">1864 - 1870</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123802"><typeud>Cote</typeud><cotation>4U22/37</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18710101/18771231">1871 - 1877</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1871/1877">1871 - 1877</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123803"><typeud>Cote</typeud><cotation>4U22/38</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18780101/18831231">1878 - 1883</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1878/1883">1878 - 1883</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123804"><typeud>Cote</typeud><cotation>4U22/39</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18840101/18881231">1884 - 1888</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1884/1888">1884 - 1888</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123805"><typeud>Cote</typeud><cotation>4U22/40</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18890101/18921231">1889 - 1892</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1889/1892">1889 - 1892</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123806"><typeud>Cote</typeud><cotation>4U22/41</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18930101/18951231">1893 - 1895</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 4</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1893/1895">1893 - 1895</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123807"><typeud>Cote</typeud><cotation>4U22/42</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18960101/18981231">1896 - 1898</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1896/1898">1896 - 1898</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123808"><typeud>Cote</typeud><cotation>4U22/43</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="18990101/19001231">1899 - 1900</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1899/1900">1899 - 1900</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123809"><typeud>Cote</typeud><cotation>4U22/44</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="19020101/19051231">1902 - 1905</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1902/1905">1902 - 1905</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123810"><typeud>Cote</typeud><cotation>4U22/45</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="19060101/19071231">1906 - 1907</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1906/1907">1906 - 1907</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123811"><typeud>Cote</typeud><cotation>4U22/46</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="19080101/19081231">1908</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1908">1908</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123812"><typeud>Cote</typeud><cotation>4U22/47</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="19090101/19091231">1909</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1909">1909</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123813"><typeud>Cote</typeud><cotation>4U22/48</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="19100101/19101231">1910</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1910">1910</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123814"><typeud>Cote</typeud><cotation>4U22/49</cotation><titre type="PR">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </titre><date normal="19110101/19121231">1911 - 1912</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   A 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1911/1912">1911 - 1912</datecontenu></indexations>
+</cote></c04><c04 type="O"><cote typo="A" id="1123862"><typeud>Cote</typeud><cotation>4U22/97</cotation><titre type="PR">Dossier de soutien des familles "1913 - 1914": 
+Famille ROULLET 
+Famille BOULANGER 
+Famille MERLE 
+Famille DUBRAS 
+Famille BELLIOT 
+Famille GUILLON 
+Famille CHRISTOPHE 
+Procès verbaux constatant la situation de la famille en vue de l'obtention de soutien familial "1914"
+Trame vierge concernant des affaires de flagrant délit, fiches statistiques de condamnés retardataires (fiche vierge).</titre><date normal="19130101/19141231">1913 - 1914</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1913/1914">1913 - 1914</datecontenu></indexations>
+</cote></c04></c03></c02><c02 type="M"><methodique typo="null" id="1128781"><typeud>Méthodique</typeud><titre type="PR">Enregistrements </titre><ctrldesc><creele>26/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><evaluation><etatclassement>Classement définitif</etatclassement></evaluation></methodique><c03 type="O"><cote typo="A" id="1123861"><typeud>Cote</typeud><cotation>4U22/96</cotation><titre type="PR">Répertoire "1893 - 1902" 
+Répertoire des jugements et des actes portés devant le juge de paix (brouillon) "1903 - 1904"
+Registre des sommes reçu pour les actes "1825 - 1863"
+Registre de rôle des causes civiles "1882 - 188"
+Registre des droits de mise au rôle "1876 - 1882"
+Recueil des usages locaux de Seine-et-Marne (Avant-projet) "1904"
+Statistiques agricoles annuelles "1922;1924-1925"
+Statistiques des travaux de la justice de paix du Canton de Moret "1894 - 1897"
+
+</titre><date normal="18250101/19251231">1825 - 1925</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1825/1925">1825 - 1925</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123832"><typeud>Cote</typeud><cotation>4U22/67</cotation><titre type="PR">Plumitif d'audience de simple Police "1854 - 1888" manquant 1870</titre><date normal="18540101/18881231">1854 - 1888</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1854/1888">1854 - 1888</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123859"><typeud>Cote</typeud><cotation>4U22/94</cotation><titre type="PR">Registre pour les avertissements "1855 - 1910"
+Talons de registre d'avertissement "1888- 1890"</titre><date normal="18550101/18931231">1855 - 1893</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1855/1893">1855 - 1893</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123860"><typeud>Cote</typeud><cotation>4U22/95</cotation><titre type="PR">Registre pour les avertissements délivrés par le Greffier  "1860 - 1867"
+Registre entrée des procès- verbaux de gendarmerie et gardes "1897 - 1905"
+Registre des audiences de police 
+"1901 - 1904"
+Registre des attributions judiciaires 
+"1904 - 1910"
+Registre d'inscription de nationalité "1948 - 1960"
+</titre><date normal="18600101/19601231">1860 - 1960</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 6</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1860/1960">1860 - 1960</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123833"><typeud>Cote</typeud><cotation>4U22/68</cotation><titre type="PR">Plumitif d'audience de siimple police "1890 - 1896"
+Jugements de saisisie arrêts "1895; 1898; 1905 - 1911" manquant 1907
+Dossier de procédure pénal nominatif concernant une infraction d'entrave à l'écoulement des eaux commune de St Mammès  "1920"</titre><date normal="18900101/19201231">1890 - 1920</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 2</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1890/1920">1890 - 1920</datecontenu></indexations>
+</cote></c03><c03 type="O"><cote typo="A" id="1123858"><typeud>Cote</typeud><cotation>4U22/93</cotation><titre type="PR">Dossier de procédure d'information pénale  " 1908" 
+Dépôt de rapport "1897;1904  - 1912"
+Enquête sur les congrégations (articles de presse, correspondances) "1901 - 1914"
+Registre récapitulatif du nombres d'actes enregistrés par commune ou canton sur les divers registres " 1912"
+Registre des déclarations d'accidents " 1905 - 1910"
+Extrait du registre des arrêts  du préfet du département de Seine-et-Marne "1849;1864"
+Affiches de journal "1892; 1898; 1920"
+Taxe à témoin, registre de plaintes (fiche vierge) </titre><date normal="18970101/19201231">1897 - 1920</date><notes>Ancienne série 2WUP, recotée en UP puis classée et cotée définitivement en 4U22 en 2026.</notes><ctrldesc><creele>18/06/2026</creele><creepar>HOUNKPE</creepar></ctrldesc><entree><numentree type="Numéro d'entrée">1997 10414</numentree><dateentree>13/01/1997</dateentree><typeentree>Versement</typeentree><sommentree>Justice - Justice de paix de Moret-sur-Loing</sommentree></entree><descmat><format>carton</format><etatcondi>Conditionnement en bon état</etatcondi></descmat><tricote><conservation>Conservation définitive</conservation></tricote><reproduction><etatmat>État matériel satisfaisant</etatmat></reproduction><production>
+<producteur><corpname id="P28138" role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></producteur></production>
+<localisation>AD 10 B  18   B 5</localisation><typointerro>Archives</typointerro><indexations>
+<datecontenu normal="1897/1920">1897 - 1920</datecontenu></indexations>
+</cote></c03></c02></c01></Archdesc>
+</GAIA>

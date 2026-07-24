@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/gaia/normes/ead.dtd">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.csd http://www.w3.org/1999/xlink http://www.loc.gov/standard/xlink/xlink.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9"><eadheader encodinganalog="dc" findaidstatus="validé" dateencoding="iso8601" langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511"><eadid>FR_AD077_4U22</eadid><filedesc><titlestmt><titleproper>4U22</titleproper><subtitle>Le présent instrument de recherche décrit les archives produites par la justice de Paix de Moret-sur-Loing dans l&#146;exercice de ses missions civiles, pénales et gracieuses. Les analyses sont rédigées au niveau de l&#146;article. Elles précisent la nature du document conservé, ses dates extrêmes, son contenu, ainsi que le cas échéant les lacunes chronologiques ou les particularités matérielles observées. 
+L&#146;instrument permet d&#146;accéder aux différentes catégories de documents produits par la juridiction, notamment les dossiers de conciliation, les jugements civils et de simple police, les procédures de tutelle et de conseil de famille, les actes de juridiction gracieuse, les procès-verbaux de simple police et de gendarmerie, les dépôts d&#146;actes, les registres d&#146;audience, les plumitifs, les répertoires et les documents de gestion et de statistiques. 
+En raison, de la diversité des typologies présente dans ce fonds, il constitue une source essentielle pour l&#146;histoire judiciaire, sociale, économique et familiale du Canton de Moret-sur-Loing de 1790 à 1960. 
+</subtitle></titlestmt><publicationstmt><publisher>Archives départementales de Seine-et-Marne</publisher><date>24/07/2026 à 10:53</date></publicationstmt></filedesc></eadheader><archdesc xmlns="" level="fonds"><did id="id2373"><unitid>4U22</unitid><unittitle type="TITRE PROPRE">Justice de paix de Moret-sur-Loing</unittitle><unitdate normal="17900101/19601231">1790 - 1960</unitdate><langmaterial>Français </langmaterial><physdesc>Le fonds est principalement constitué de registres reliés, de dossiers papier et de quelques imprimés administratifs. Les documents couvrent la période révolutionnaire jusqu&#146;au milieu du XXe siècle. Leur état matériel est globalement satisfaisant. Le fond fait 13,33 mètres linéaires.</physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Conservation définitive </p></appraisal><accruals><p>Fonds clos </p></accruals><arrangement><p>Le classement adopté ici respecte les principales missions exercées par la juridiction à savoir : &lt;lb/&gt;-	Fonctionnement,&lt;lb/&gt;-	Attributions civiles,&lt;lb/&gt;-	Attributions pénales, &lt;lb/&gt;-	Dépôts,&lt;lb/&gt;-	Enregistrement&lt;lb/&gt;</p></arrangement><processinfo><p>Etat de classement : Classement définitif</p></processinfo><custodhist><p>Un inventaire sommaire a été établi par Cédric Becker, stagiaire de l'Ecole Nationale des Greffiers (ENG) en stage aux Archives départementales de Seine-et-Marne du 26 janvier au 20 février 2015. Sur la base de cet inventaire, un classement définitif a été réalisé en 2026 par Maurelle Hounkpe.</p></custodhist><scopecontent><p>Instituées par la loi des 16 et 24 août 1790, portant organisation judiciaire, les justices de paix constituent la juridiction de proximité créée par la Révolution Française afin de rapprocher la justice des citoyens et de favoriser le règlement à l&#146;amiable des différends. Etablie au chef-lieu de chaque canton, la justice de paix est confiée à un juge élu, puis nommé à partir du Consulat, dont les compétences s&#146;étendent progressivement tout au long du XIXe siècle. Outre leur mission essentielle de conciliation entre les parties, les juges de paix interviennent dans les litiges civils de faible importance, exercent des attributions en matière de simple police et accomplissent de nombreuses missions de juridiction gracieuse. A ce titre, ils interviennent notamment dans les procédures de tutelle, les conseils de famille, les appositions et levées de scellés, les inventaires après décès, les ventes de mobiliers et dans la réception de certains dépôts d&#146;actes. &lt;lb/&gt;Les justices de paix durent tout le long du XIXe siècle et la première moitié du XXe siècle. Elles sont ensuite supprimées par l&#146;ordonnance du 22 décembre 1958 portant réforme de l&#146;organisation judiciaire. Leurs compétences sont transférées aux tribunaux de première instance à partir de 1959. &lt;lb/&gt;Le fonds rassemble les archives produites par la justice de paix du canton de Moret-sur-Loing de 1790 à 1960 dans l&#146;exercice de ses fonctions mais aussi de nombreux aspects de la vie quotidienne des habitants du canton. La justice de Paix intervient ici dans les conflits de voisinage, les successions, la protection des mineurs, les affaires de simple police, l&#146;activité économique locale et l&#146;administration de la justice de Paix de Moret-sur-Loing. Le fonds présente donc un intérêt majeur pour l&#146;histoire institutionnelle, judiciaire, sociale, familiale et économique du canton de Moret-sur-Loing. &lt;lb/&gt;Le fonds comprend notamment : &lt;lb/&gt;-	Les archives de fonctionnement de la juridiction : correspondances, circulaire, rapports statistiques,&lt;lb/&gt;-	Les archives des attributions civiles : jugements civils, les procès-verbaux de conciliations, les actes civils (inventaire après décès, scellés, ventes mobilières), les conseils de famille, &lt;lb/&gt;-	Les archives d&#146;attributions pénales : jugements de simple police, procès-verbaux de simple police ; procès-verbaux de police et de gendarmerie, répertoire et plumitifs d&#146;audience &lt;lb/&gt;-	Les dépôts d&#146;actes comprenant notamment le dépôt des pièces de sociétés commerciales et les dépôts de signatures notariales ;&lt;lb/&gt;-	Les registres de gestion, répertoires ; tables et documents statistiques. &lt;lb/&gt;</p></scopecontent><accessrestrict><p>Soumis aux conditions de la salle de lecture </p></accessrestrict><userestrict><p>Conditions de reproduction : Soumis aux conditions de la salle de lecture </p></userestrict><controlaccess><chronlist><chronitem><date>1790 - 1960</date><event>
+          Date de contenu
+        </event></chronitem></chronlist><famname id="334" source="FAMI">Drouyn (famille)</famname><geogname id="92600" source="CADM">Moret-sur-Loing (Seine-et-Marne ; canton)</geogname></controlaccess><acqinfo><p>
+      Modalités d'entrée : Versement du 13 janvier 1997</p></acqinfo><dsc type="in-depth"><c level="recordgrp"><did id="id983262"><unittitle type="TITRE PROPRE">Fonctionnement</unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><scopecontent><p>Regroupe les documents concernant :&lt;lb/&gt;- les généralités (correspondance, statistiques, etc.),&lt;lb/&gt;- le personnel (installation des juges de paix, des assesseurs et suppléants, documents comptables),&lt;lb/&gt;- la documentation (lois, arrêtés, règlements, circulaires).&lt;lb/&gt;</p></scopecontent><c level="file"><did id="id1123861"><unitid>4U22/96</unitid><unittitle type="TITRE PROPRE">Répertoire "1893 - 1902" 
+Répertoire des jugements et des actes portés devant le juge de paix (brouillon) "1903 - 1904"
+Registre des sommes reçu pour les actes "1825 - 1863"
+Registre de rôle des causes civiles "1882 - 188"
+Registre des droits de mise au rôle "1876 - 1882"
+Recueil des usages locaux de Seine-et-Marne (Avant-projet) "1904"
+Statistiques agricoles annuelles "1922;1924-1925"
+Statistiques des travaux de la justice de paix du Canton de Moret "1894 - 1897"
+
+</unittitle><unitdate normal="18250101/19251231">1825 - 1925</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1825 - 1925</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123857"><unitid>4U22/92</unitid><unittitle type="TITRE PROPRE">Correspondances "1833; 1854 - 1912"
+Circulaire "1861 - 1874</unittitle><unitdate normal="18330101/19121231">1833 - 1912</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1833 - 1912</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123853"><unitid>4U22/88</unitid><unittitle type="TITRE PROPRE">Formation des listes préparatoires
+ pour les jurés criminels </unittitle><unitdate normal="18490101/19211231">1849 - 1921</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1849 - 1921</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123854"><unitid>4U22/89</unitid><unittitle type="TITRE PROPRE">  Formation de la liste des électeurs
+ consulaire duTribunal du commerce "1884 - 1922",  manquant: 1895, 1897, 1910,1912
+  Formation de la liste des électeurs de la Chambre consultative des arts et manufactrures "1908- 1913; 1920;1922"
+Procès verbaux des élections d'un représentant à l'assemblée législative
+ " 1849;1851"
+Procès verbaux de recensement des votes  "1849; 1851"</unittitle><unitdate normal="18490101/19221231">1849 - 1922</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1849 - 1922</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123856"><unitid>4U22/91</unitid><unittitle type="TITRE PROPRE">Procurations  "1856 - 1893"
+Lettres officielles "An 3 -An 10" 
+Correspondances ( relier) "1898 - 1910 
+Télégramme 
+</unittitle><unitdate normal="18560101/19101231">1856 - 1910</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1856 - 1910</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123852"><unitid>4U22/87</unitid><unittitle type="TITRE PROPRE">  Dossier de vérification du registre 
+tenu par le canton de Moret pour la
+ protection des enfants du 1er âge "1885 - 1895"
+   Rapport sur la protection des enfants du premier âge "1886 - 1896"
+   Rapports annuels sur les émoluments versés en matière des enfants du 1 er âge "1883 - 1895"</unittitle><unitdate normal="18830101/18961231">1883 - 1896</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1883 - 1896</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123855"><unitid>4U22/90</unitid><unittitle type="TITRE PROPRE"> Formation de la liste des électeurs pour l'année de la chambre de commerce "1895; 1908-1913; 19220;1922"
+ Formation de la liste des électeurs consulaires pour le tribunal de commerce "1886 - 1887; 1903 - 19113; 1920;1922"  manquant 1904;1911</unittitle><unitdate normal="18950101/19221231">1895 - 1922</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1895 - 1922</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123858"><unitid>4U22/93</unitid><unittitle type="TITRE PROPRE">Dossier de procédure d'information pénale  " 1908" 
+Dépôt de rapport "1897;1904  - 1912"
+Enquête sur les congrégations (articles de presse, correspondances) "1901 - 1914"
+Registre récapitulatif du nombres d'actes enregistrés par commune ou canton sur les divers registres " 1912"
+Registre des déclarations d'accidents " 1905 - 1910"
+Extrait du registre des arrêts  du préfet du département de Seine-et-Marne "1849;1864"
+Affiches de journal "1892; 1898; 1920"
+Taxe à témoin, registre de plaintes (fiche vierge) </unittitle><unitdate normal="18970101/19201231">1897 - 1920</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1897 - 1920</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123862"><unitid>4U22/97</unitid><unittitle type="TITRE PROPRE">Dossier de soutien des familles "1913 - 1914": 
+Famille ROULLET 
+Famille BOULANGER 
+Famille MERLE 
+Famille DUBRAS 
+Famille BELLIOT 
+Famille GUILLON 
+Famille CHRISTOPHE 
+Procès verbaux constatant la situation de la famille en vue de l'obtention de soutien familial "1914"
+Trame vierge concernant des affaires de flagrant délit, fiches statistiques de condamnés retardataires (fiche vierge).</unittitle><unitdate normal="19130101/19141231">1913 - 1914</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1913 - 1914</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c><c level="recordgrp"><did id="id983265"><unittitle type="TITRE PROPRE">Attributions pénales</unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><scopecontent><p>Concernent les affaires de simple police :&lt;lb/&gt;- répertoires,&lt;lb/&gt;- minutes et extraits de jugements,&lt;lb/&gt;- dossiers de procédures,&lt;lb/&gt;- contraventions et amendes de simple police,&lt;lb/&gt;- procès-verbaux de police et de gendarmerie.&lt;lb/&gt;</p></scopecontent><c level="recordgrp"><did id="id983283"><unittitle type="TITRE PROPRE">Jugements de simple police</unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><c level="file"><did id="id1123821"><unitid>4U22/56</unitid><unittitle type="TITRE PROPRE">Jugements  de police correctionnelle "1792 - 1794; An 2 - An 10" 
+Jugement de police (registre) "An 4 - An 8"
+</unittitle><unitdate normal="17920101/18020923">1792 -  An X [23/09/1801 - 23/09/1802]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1792 -  An X [23/09/1801 - 23/09/1802]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123822"><unitid>4U22/57</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police  "registre" 
+ manquant 1829</unittitle><unitdate normal="18160101/18371231">1816 - 1837</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1816 - 1837</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123831"><unitid>4U22/66</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police 1936; 1939
+Jugements de Prud'hommes "assistance judiciaire, accidents de travail "1936 - 1937"
+jugements "assurances sociales "1934"
+Répertoire des jugements de minutes de simple police "1817- 1897"
+Registre de suivi des informations criminelles "1853 - 1895"</unittitle><unitdate normal="18320101/19391231">1832 - 1939</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1832 - 1939</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123823"><unitid>4U22/58</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police </unittitle><unitdate normal="18390101/18571231">1839 - 1857</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1839 - 1857</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123824"><unitid>4U22/59</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police manquant 1862</unittitle><unitdate normal="18550101/18641231">1855 - 1864</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1855 - 1864</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123825"><unitid>4U22/60</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police </unittitle><unitdate normal="18640101/18701231">1864 - 1870</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1864 - 1870</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123826"><unitid>4U22/61</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police </unittitle><unitdate normal="18710101/18791231">1871 - 1879</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1871 - 1879</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123827"><unitid>4U22/62</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police </unittitle><unitdate normal="18800101/18871231">1880 - 1887</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1880 - 1887</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123828"><unitid>4U22/63</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police </unittitle><unitdate normal="18880101/18941231">1888 - 1894</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1888 - 1894</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123829"><unitid>4U22/64</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police </unittitle><unitdate normal="18950101/19031231">1895 - 1903</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1895 - 1903</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123830"><unitid>4U22/65</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police </unittitle><unitdate normal="19040101/19121231">1904 - 1912</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1904 - 1912</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c><c level="recordgrp"><did id="id983287"><unittitle type="TITRE PROPRE">Procès-verbaux de police et de gendarmerie</unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><c level="file"><did id="id1123834"><unitid>4U22/69</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18540101/18581231">1854 - 1858</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1854 - 1858</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123835"><unitid>4U22/70</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18590101/18611231">1859 - 1861</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1859 - 1861</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123836"><unitid>4U22/71</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18620101/18651231">1862 - 1865</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1862 - 1865</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123837"><unitid>4U22/72</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18660101/18691231">1866 - 1869</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1866 - 1869</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123838"><unitid>4U22/73</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux) "manquant 1871"</unittitle><unitdate normal="18700101/18751231">1870 - 1875</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1870 - 1875</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123839"><unitid>4U22/74</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18780101/18811231">1878 - 1881</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1878 - 1881</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123840"><unitid>4U22/75</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18820101/18851231">1882 - 1885</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1882 - 1885</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123841"><unitid>4U22/76</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18860101/18911231">1886 - 1891</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1886 - 1891</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123842"><unitid>4U22/77</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="18920101/18991231">1892 - 1899</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1892 - 1899</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123843"><unitid>4U22/78</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="19000101/19041231">1900 - 1904</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1900 - 1904</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123844"><unitid>4U22/79</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="19050101/19101231">1905 - 1910</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1905 - 1910</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123845"><unitid>4U22/80</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="19110101/19121231">1911 - 1912</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1911 - 1912</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123846"><unitid>4U22/81</unitid><unittitle type="TITRE PROPRE">Procès verbaux ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, sitation sur réquisitoire, correspondances, états des procès verbaux)</unittitle><unitdate normal="19130101/19191231">1913 - 1919</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1913 - 1919</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123847"><unitid>4U22/82</unitid><unittitle type="TITRE PROPRE">Procès verbaux"1920 - 1921" ( PV, citation à prévenu, avertissement de contravention, bulletin signalétique, récépissé, citation sur réquisitoire, correspondances, états des procès verbaux)
+Procès verbaux : "1935"
+Transport sur place et enquête "Jaillette et Chodam" 
+Déclaration, de pouvoir de cassation "commune de Wontarlot et Dormeau André" 
+
+</unittitle><unitdate normal="19200101/19351231">1920 - 1935</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1920 - 1935</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c></c><c level="recordgrp"><did id="id983266"><unittitle type="TITRE PROPRE">Dépôts </unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><scopecontent><p>Concernent :&lt;lb/&gt;- les prestations de serments et l'authenticité des actes,&lt;lb/&gt;- la conservation des actes (par exemple les contrats d'apprentissage, les actes de sociétés, la liste préparatoire du jury criminel),&lt;lb/&gt;- la présidence de commissions (notamment l'assistance médicale gratuite, les baux ruraux),&lt;lb/&gt;- l'agriculture (exemple : inscription des warrants agricoles).&lt;lb/&gt;</p></scopecontent><c level="file"><did id="id1123851"><unitid>4U22/86</unitid><unittitle type="TITRE PROPRE">Dossier contenant les actes de dépôt 
+de signatures des notaires "1861 - 1896"
+Dossier contenant les certificats en pharmacie "1862 - 1891"
+Dossier de vérification de registre tenu par le Canton de Moret pour la protection des enfants du 1er âge "1913"
+Dossier de déclaration d'accident de travail  (déclaration, PV, certificat médical)
+"1914- 1915"
+
+</unittitle><unitdate normal="18610101/19151231">1861 - 1915</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1861 - 1915</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123848"><unitid>4U22/83</unitid><unittitle type="TITRE PROPRE">Dépôt d'actes  :
+-  Cie Lyonnaise de Navigation "1894"
+-  La compagnie Lyonnaise de Navigation "1894"
+- Société "Eclairage technique de Moret" "1894"
+- Sociéte immobilière de Champagne- sur-seine "1902" 
+- Société des Aglomérés du centre et de l'Est "1902"
+- Société Générale "1905-1906; 1909"
+- Société Boué et Petit "1910"
+- Société coopérative (Le progrès)"1910"
+</unittitle><unitdate normal="18940101/19101231">1894 - 1910</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1894 - 1910</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123850"><unitid>4U22/85</unitid><unittitle type="TITRE PROPRE">Dépôt de pièces:
+- La socité des Aglomérés du centre et de l'Est "1893;1900"
+- Crédit Agricole de Moret (1909)
+- Société Générale de halage sur les canaux du centre "1909"
+- Société Schneider et Cie "1908"
+- Société de Remorquage de la Haute Seine "1908"
+- Société Leveau et Belle fille "1908"
+- Société Crogny "1906"
+- Société collectif Crochot frères "1903"
+- Société Générale "1903"
+- Société anonyme des lièges plastiques et aglomérés Ravannes "1904"
+- Société en non collectif Bellanger Chassin "1904"
+- Société la concorde "1906"
+- Société des habitations à Bon marché de Champagne-sur-seine "1906"
+- Société Générale de Navigation "1906"
+
+Dépôt des pièces de dissolution 
+- Société de Remorquage et de transports de Haute Seine des Canaux du Centre et du Nord "1910"
+- société des sièges aglomérés de Ravannes "1906"
+- Société Chrochot frères "1904"
+- Société Lemaire et Carangeot "1911"
+Dépôt de transaction " Lecomte et Bergeron" "1907"
+Dépôt de rapport 
+- Poulteau et Cie et Villemen (1908) 
+- Muzard et Thomas (1908)
+- Lemaire et Rosignol (1908)
+- Antoine et Bardier (1908)
+- Rousseau et Canmergnat (1900)
+ 
+
+
+</unittitle><unitdate normal="18970101/19111231">1897 - 1911</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1897 - 1911</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123849"><unitid>4U22/84</unitid><unittitle type="TITRE PROPRE">Dépôt d'actes  :
+-  Société Economats Gâtinais "1911"
+- Société Le maitre Carangeot "1911"
+-  Société de Halage sur les canaux du centre "1911"
+- Société J.Prévost et Cie "1912"
+- Société Générale "1912"
+</unittitle><unitdate normal="19110101/19121231">1911 - 1912</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1911 - 1912</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c><c level="recordgrp"><did id="id1128778"><unittitle type="TITRE PROPRE">Attributions civiles </unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><c level="file"><did id="id1123817"><unitid>4U22/52</unitid><unittitle type="TITRE PROPRE">Dossiers de procédure civil :
+- Procès verbaux d'interrogatoire 
+"1793"
+- Procès verbaux d'audition des témoins 
+"1793"
+- Procès verbaux de visite des lieux "1899"
+- Procès verbaux verbal de copie collationné Berthier et Crochok "1907"</unittitle><unitdate normal="17930101/19071231">1793 - 1907</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1793 - 1907</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="recordgrp"><did id="id1128782"><unittitle type="TITRE PROPRE">Conciliations </unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><c level="file"><did id="id1123818"><unitid>4U22/53</unitid><unittitle type="TITRE PROPRE">Conciliations </unittitle><unitdate normal="17900101/18050923">1790 -  An XIII [23/09/1804 - 23/09/1805]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1790 -  An XIII [23/09/1804 - 23/09/1805]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123819"><unitid>4U22/54</unitid><unittitle type="TITRE PROPRE">Conciliations </unittitle><unitdate normal="18060101/18341231">1806 - 1834</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1806 - 1834</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123820"><unitid>4U22/55</unitid><unittitle type="TITRE PROPRE">Conciliations et non concilialiations
+ "1860 - 1901; 1909" manquant 1899-1900
+Notes relatives aux  conciliations 
+"1893 - 1896"</unittitle><unitdate normal="18600101/18961231">1860 - 1896</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1860 - 1896</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c><c level="recordgrp"><did id="id1128780"><unittitle type="TITRE PROPRE">Contentieux </unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><c level="file"><did id="id1123767"><unitid>4U22/2</unitid><unittitle type="TITRE PROPRE">Jugements civils </unittitle><unitdate normal="17940922/17990922"> An III  -  An VII [22/09/1794 - 22/09/1799]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date> An III  -  An VII [22/09/1794 - 22/09/1799]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123768"><unitid>4U22/3</unitid><unittitle type="TITRE PROPRE">Jugements civils </unittitle><unitdate normal="17990923/18060923"> An VIII  -  An XIV [23/09/1799 - 23/09/1806]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date> An VIII  -  An XIV [23/09/1799 - 23/09/1806]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123766"><unitid>4U22/1</unitid><unittitle type="TITRE PROPRE">Jugements civils</unittitle><unitdate normal="17900101/17940922">1790 -  An II [22/09/1793 - 22/09/1794]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1790 -  An II [22/09/1793 - 22/09/1794]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123787"><unitid>4U22/22</unitid><unittitle type="TITRE PROPRE">Jugements civils; manquant (1910)
+Jugement de loyers "1936"
+Répertoire des actes civils et des jugements  "An 8 - 1816"
+Rapport de vérification des registres de l'état civil 
+Répertoire d'actes d'état civil "1791 - An 10" manquant An 7 </unittitle><unitdate normal="17910101/19371231">1791 - 1937</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1791 - 1937</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123769"><unitid>4U22/4</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18060101/18081231">1806 - 1808</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1806 - 1808</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123770"><unitid>4U22/5</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18090101/18121231">1809 - 1812</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1809 - 1812</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123771"><unitid>4U22/6</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18140101/18181231">1814 - 1818</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1814 - 1818</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123772"><unitid>4U22/7</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18190101/18231231">1819 - 1823</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1819 - 1823</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123773"><unitid>4U22/8</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18240101/18291231">1824 - 1829</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1824 - 1829</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123774"><unitid>4U22/9</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18300101/18341231">1830 - 1834</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1830 - 1834</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123831"><unitid>4U22/66</unitid><unittitle type="TITRE PROPRE">Jugement de simple Police 1936; 1939
+Jugements de Prud'hommes "assistance judiciaire, accidents de travail "1936 - 1937"
+jugements "assurances sociales "1934"
+Répertoire des jugements de minutes de simple police "1817- 1897"
+Registre de suivi des informations criminelles "1853 - 1895"</unittitle><unitdate normal="18320101/19391231">1832 - 1939</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1832 - 1939</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123775"><unitid>4U22/10</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18350101/18391231">1835 - 1839</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1835 - 1839</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123776"><unitid>4U22/11</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18400101/18451231">1840 - 1845</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1840 - 1845</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123777"><unitid>4U22/12</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18460101/18491231">1846 - 1849</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1846 - 1849</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123778"><unitid>4U22/13</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18500101/18531231">1850 - 1853</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1850 - 1853</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123779"><unitid>4U22/14</unitid><unittitle type="TITRE PROPRE">Jugements civils; manquant 1857</unittitle><unitdate normal="18540101/18591231">1854 - 1859</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1854 - 1859</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123780"><unitid>4U22/15</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18600101/18651231">1860 - 1865</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1860 - 1865</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123781"><unitid>4U22/16</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18660101/18711231">1866 - 1871</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1866 - 1871</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123782"><unitid>4U22/17</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18720101/18791231">1872 - 1879</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1872 - 1879</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123783"><unitid>4U22/18</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18800101/18851231">1880 - 1885</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1880 - 1885</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123784"><unitid>4U22/19</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18860101/18931231">1886 - 1893</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1886 - 1893</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123785"><unitid>4U22/20</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="18940101/18991231">1894 - 1899</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1894 - 1899</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123786"><unitid>4U22/21</unitid><unittitle type="TITRE PROPRE">Jugements civils  </unittitle><unitdate normal="19000101/19061231">1900 - 1906</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1900 - 1906</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c><c level="recordgrp"><did id="id1128779"><unittitle type="TITRE PROPRE">Gracieux </unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><c level="file"><did id="id1123789"><unitid>4U22/24</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</unittitle><unitdate normal="17960922/18020923"> An V  -  An X [22/09/1796 - 23/09/1802]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date> An V  -  An X [22/09/1796 - 23/09/1802]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123790"><unitid>4U22/25</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</unittitle><unitdate normal="18020923/18040922"> An XI  -  An XII [23/09/1802 - 22/09/1804]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date> An XI  -  An XII [23/09/1802 - 22/09/1804]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123791"><unitid>4U22/26</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</unittitle><unitdate normal="18040923/18081231"> An XIII [23/09/1804 - 23/09/1805] - 1808</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date> An XIII [23/09/1804 - 23/09/1805] - 1808</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123788"><unitid>4U22/23</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, 
+ventes mobiliers</unittitle><unitdate normal="17900101/17960921">1790 -  An IV [23/09/1795 - 21/09/1796]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1790 -  An IV [23/09/1795 - 21/09/1796]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123815"><unitid>4U22/50</unitid><unittitle type="TITRE PROPRE">Minutiers actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation
+ au clair, ventes mobiliers</unittitle><unitdate normal="17910101/17980922">1791 -  An VI [22/09/1797 - 22/09/1798]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1791 -  An VI [22/09/1797 - 22/09/1798]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123816"><unitid>4U22/51</unitid><unittitle type="TITRE PROPRE">Minutes de jugements/ actes civils  (présence de jugement) </unittitle><unitdate normal="17910101/18020923">1791 -  An X [23/09/1801 - 23/09/1802]</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1791 -  An X [23/09/1801 - 23/09/1802]</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123792"><unitid>4U22/27</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18110101/18131231">1811 - 1813</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1811 - 1813</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123793"><unitid>4U22/28</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18130101/18171231">1813 - 1817</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1813 - 1817</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123794"><unitid>4U22/29</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18180101/18241231">1818 - 1824</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1818 - 1824</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123795"><unitid>4U22/30</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18250101/18311231">1825 - 1831</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1825 - 1831</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123796"><unitid>4U22/31</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18320101/18361231">1832 - 1836</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1832 - 1836</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123797"><unitid>4U22/32</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18370101/18431231">1837 - 1843</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1837 - 1843</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123798"><unitid>4U22/33</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18440101/18501231">1844 - 1850</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1844 - 1850</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123799"><unitid>4U22/34</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18510101/18561231">1851 - 1856</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1851 - 1856</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123800"><unitid>4U22/35</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18570101/18631231">1857 - 1863</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1857 - 1863</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123801"><unitid>4U22/36</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18640101/18701231">1864 - 1870</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1864 - 1870</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123802"><unitid>4U22/37</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18710101/18771231">1871 - 1877</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1871 - 1877</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123803"><unitid>4U22/38</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18780101/18831231">1878 - 1883</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1878 - 1883</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123804"><unitid>4U22/39</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18840101/18881231">1884 - 1888</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1884 - 1888</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123805"><unitid>4U22/40</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18890101/18921231">1889 - 1892</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1889 - 1892</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123806"><unitid>4U22/41</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18930101/18951231">1893 - 1895</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1893 - 1895</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123807"><unitid>4U22/42</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18960101/18981231">1896 - 1898</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1896 - 1898</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123808"><unitid>4U22/43</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="18990101/19001231">1899 - 1900</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1899 - 1900</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123809"><unitid>4U22/44</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="19020101/19051231">1902 - 1905</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1902 - 1905</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123810"><unitid>4U22/45</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="19060101/19071231">1906 - 1907</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1906 - 1907</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123811"><unitid>4U22/46</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="19080101/19081231">1908</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1908</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123812"><unitid>4U22/47</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="19090101/19091231">1909</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1909</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123813"><unitid>4U22/48</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="19100101/19101231">1910</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1910</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123814"><unitid>4U22/49</unitid><unittitle type="TITRE PROPRE">Actes d'hôtel : visites des lieux, tutelles, avis des parents, levés et appositions de scelles, serments, tutelle, autorisation au clair, ventes mobiliers, </unittitle><unitdate normal="19110101/19121231">1911 - 1912</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1911 - 1912</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123862"><unitid>4U22/97</unitid><unittitle type="TITRE PROPRE">Dossier de soutien des familles "1913 - 1914": 
+Famille ROULLET 
+Famille BOULANGER 
+Famille MERLE 
+Famille DUBRAS 
+Famille BELLIOT 
+Famille GUILLON 
+Famille CHRISTOPHE 
+Procès verbaux constatant la situation de la famille en vue de l'obtention de soutien familial "1914"
+Trame vierge concernant des affaires de flagrant délit, fiches statistiques de condamnés retardataires (fiche vierge).</unittitle><unitdate normal="19130101/19141231">1913 - 1914</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1913 - 1914</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c></c><c level="recordgrp"><did id="id1128781"><unittitle type="TITRE PROPRE">Enregistrements </unittitle></did>Méthodique<processinfo><p>Etat de classement : Classement définitif</p></processinfo><c level="file"><did id="id1123861"><unitid>4U22/96</unitid><unittitle type="TITRE PROPRE">Répertoire "1893 - 1902" 
+Répertoire des jugements et des actes portés devant le juge de paix (brouillon) "1903 - 1904"
+Registre des sommes reçu pour les actes "1825 - 1863"
+Registre de rôle des causes civiles "1882 - 188"
+Registre des droits de mise au rôle "1876 - 1882"
+Recueil des usages locaux de Seine-et-Marne (Avant-projet) "1904"
+Statistiques agricoles annuelles "1922;1924-1925"
+Statistiques des travaux de la justice de paix du Canton de Moret "1894 - 1897"
+
+</unittitle><unitdate normal="18250101/19251231">1825 - 1925</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1825 - 1925</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123832"><unitid>4U22/67</unitid><unittitle type="TITRE PROPRE">Plumitif d'audience de simple Police "1854 - 1888" manquant 1870</unittitle><unitdate normal="18540101/18881231">1854 - 1888</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1854 - 1888</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123859"><unitid>4U22/94</unitid><unittitle type="TITRE PROPRE">Registre pour les avertissements "1855 - 1910"
+Talons de registre d'avertissement "1888- 1890"</unittitle><unitdate normal="18550101/18931231">1855 - 1893</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1855 - 1893</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123860"><unitid>4U22/95</unitid><unittitle type="TITRE PROPRE">Registre pour les avertissements délivrés par le Greffier  "1860 - 1867"
+Registre entrée des procès- verbaux de gendarmerie et gardes "1897 - 1905"
+Registre des audiences de police 
+"1901 - 1904"
+Registre des attributions judiciaires 
+"1904 - 1910"
+Registre d'inscription de nationalité "1948 - 1960"
+</unittitle><unitdate normal="18600101/19601231">1860 - 1960</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1860 - 1960</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123833"><unitid>4U22/68</unitid><unittitle type="TITRE PROPRE">Plumitif d'audience de siimple police "1890 - 1896"
+Jugements de saisisie arrêts "1895; 1898; 1905 - 1911" manquant 1907
+Dossier de procédure pénal nominatif concernant une infraction d'entrave à l'écoulement des eaux commune de St Mammès  "1920"</unittitle><unitdate normal="18900101/19201231">1890 - 1920</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1890 - 1920</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c><c level="file"><did id="id1123858"><unitid>4U22/93</unitid><unittitle type="TITRE PROPRE">Dossier de procédure d'information pénale  " 1908" 
+Dépôt de rapport "1897;1904  - 1912"
+Enquête sur les congrégations (articles de presse, correspondances) "1901 - 1914"
+Registre récapitulatif du nombres d'actes enregistrés par commune ou canton sur les divers registres " 1912"
+Registre des déclarations d'accidents " 1905 - 1910"
+Extrait du registre des arrêts  du préfet du département de Seine-et-Marne "1849;1864"
+Affiches de journal "1892; 1898; 1920"
+Taxe à témoin, registre de plaintes (fiche vierge) </unittitle><unitdate normal="18970101/19201231">1897 - 1920</unitdate><physdesc><container>
+      Format du conditionnement : carton</container></physdesc><origination><corpname role="Producteur administratif" source="dictionnaire_producteurs">Justice de paix (Moret-sur-Loing, Seine-et-Marne)</corpname></origination></did><appraisal><p>Type de conservation : Conservation définitive</p></appraisal><accessrestrict><p>Etat matériel : État matériel satisfaisant</p></accessrestrict>Cote<controlaccess><chronlist><chronitem><date>1897 - 1920</date><event>
+          Date de contenu
+        </event></chronitem></chronlist></controlaccess><acqinfo><p><num>1997 10414</num><date>13/01/1997</date>
+      Type d'entrée : Versement
+      Sommaire de l'entrée : Justice - Justice de paix de Moret-sur-Loing</p></acqinfo></c></c></dsc></archdesc></ead>

@@ -5,8 +5,11 @@ blabla
 
 > in progress...
 
+blabla
 
-## References
+## References
+
+Here are a few references: 
 
 > - https://learn-haskell.blog/
 > - https://pandoc.org/
@@ -132,6 +135,7 @@ Archival information software (SIA en français ?) can produce dirty XML/EAD : e
     - -> Just a validator ??? for arise errors? 
     - -> XML/EAD 2
     - -> XML/EAD 4
+- SEDA --> EAD
 
 > Note GAIA is becoming Advance Archive... I hope its XML will be close to real EAD  
 

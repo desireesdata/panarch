@@ -1,0 +1,11 @@
+cabal-version: 3.0
+name: parsing-attempt
+version: 0.1.0.0
+
+executable parsing-attempt
+    main-is: practice.hs
+    build-depends:
+        base,
+        text,
+        xml-conduit
+    default-language: Haskell2010
